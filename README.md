@@ -29,6 +29,7 @@ Assignment (10 pts):
 |Name                   |GitHub ID         |website for a GitHub repo  |  
 |:----------------------|:-----------------|:--------------------------|  
 | Matt Beckman    | mdbeckman      | <https://mdbeckman.github.io/PSU-Data-Science/>   |  
+| Luxin Wang      | sabrinawang06  | <https://github.com/Sabrinawang06/PSU16>          |
 
 <br>
 
